@@ -7,7 +7,7 @@ import { useRef } from 'react'
 
 function App() {
   const playerRef = useRef(null)
-  const videoLink = "http://localhost:8000/uploads/courses/11b106da-febe-43a8-9d25-25602e811ab2/index.m3u8"
+  const videoLink = "https://videostreamingapp-1.onrender.com"
 
   const videoPlayerOptions = {
     controls: true,

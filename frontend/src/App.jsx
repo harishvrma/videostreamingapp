@@ -11,7 +11,7 @@ function App() {
 
   const videoPlayerOptions = {
     controls: true,
-    responsive: true,z
+    responsive: true,
     fluid: true,
     sources: [
       {
